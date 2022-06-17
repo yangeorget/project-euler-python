@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../botfuel/botfuel-hermes-backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../coding-problems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
